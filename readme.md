@@ -1,4 +1,4 @@
-# python einfuehrung
+# python einfuehrung for dummies
 ## autoren
 elke
 
